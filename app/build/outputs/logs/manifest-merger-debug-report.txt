@@ -1,0 +1,296 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:48:9-56:20
+	android:grantUriPermissions
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:52:13-47
+	android:authorities
+		INJECTED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:49:13-51
+	android:exported
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:51:13-37
+	android:name
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:50:13-62
+manifest
+ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:2:1-59:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\joysi\.gradle\caches\transforms-3\5e94dba7cc0f687461cfefa33f18f1fc\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\joysi\.gradle\caches\transforms-3\5423c65485a974611bfb437c61e9a2e1\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\joysi\.gradle\caches\transforms-3\a987d2316070045a98d27868be069a73\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\joysi\.gradle\caches\transforms-3\d2be0a07ac682004ffbddd9c163a1cf7\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\ef9c2e62fda9f61be2c2be664ad60833\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\joysi\.gradle\caches\transforms-3\bd96202844677c6ffff7ddee94f67721\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\joysi\.gradle\caches\transforms-3\80254027b8214a8eee7337b0d05a888c\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\joysi\.gradle\caches\transforms-3\77a5f4f84e54b69a38c821c32d573fc9\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\cf0c7c27b218b63b644acaf2b0ee7e36\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\914af07b2490dc878f01326ae2aa49a5\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\joysi\.gradle\caches\transforms-3\286cefdc312dd8b0d38d55e09c15a1b4\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\joysi\.gradle\caches\transforms-3\2537510cd9d1f9cd971695449a7cf1ff\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\290daf0007bd16060f850c4dce88c7cb\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\joysi\.gradle\caches\transforms-3\9386fc3a7a94f7a0c1fd818ff20fb1b9\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\joysi\.gradle\caches\transforms-3\3e95cf769ad47224fc976447c9a19c83\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\joysi\.gradle\caches\transforms-3\7c0ea3c407177bc42858e1a03eb2d703\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\8c86d60e31ecc9b8c6036e7feee09a6a\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\0bcaf791ff50993e77c8308306818b83\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\e8d78942842e4749837a1f33ca3e068b\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\joysi\.gradle\caches\transforms-3\e9deb67a89ab8947a2a3af3afa4c656b\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\joysi\.gradle\caches\transforms-3\b0cbde3fdb6c0db7f9e0e5bbe61fd3f8\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\joysi\.gradle\caches\transforms-3\adacc4bbdca3c037c01e5031782c646c\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\af11966b09b302805e3cf6788f225a1d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\joysi\.gradle\caches\transforms-3\5205ffd90e7e9781df9aac7bc98fe4cf\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\joysi\.gradle\caches\transforms-3\b569b24e839ddc23bd7fca0bdc2aad92\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\joysi\.gradle\caches\transforms-3\1ac93c5e760a99df0791676ab0dd2c8b\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\e50543719087e4e0d9eed540cacbdf66\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\joysi\.gradle\caches\transforms-3\f402c227810f854944e859f834a3003b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\joysi\.gradle\caches\transforms-3\bf8d388157906b2f93596545fa1cdd75\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\d33b6ea82ea82939491efcd0e438d085\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\84ac24e2f6d5732bdb410617f5e9ba1f\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\joysi\.gradle\caches\transforms-3\3975aa665502506a868be148aa96357f\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\joysi\.gradle\caches\transforms-3\e6d5b26d4f1271669854a4a122d5c6d8\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\joysi\.gradle\caches\transforms-3\46678b274d19ceaa2ace84fd4677d921\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\joysi\.gradle\caches\transforms-3\c40e630578e61a061d65c5e47b572f6e\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\69a4388af68bad3cfd5a877ec530d9c8\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\1fc11c2023e1af6b505dff2498a00c20\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\46197eece4813ea272dedaf6d97f0704\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\bf11d5f709f8b4982d65ae78eb7a0a6a\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\joysi\.gradle\caches\transforms-3\4f1a47d5479d4f3d8d4d4695b638601c\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:2:1-59:12
+	package
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:2:1-59:12
+		INJECTED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:2:1-59:12
+		INJECTED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:6:22-64
+queries
+ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:8:5-10:15
+package#com.google.android.googlequicksearchbox
+ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:9:9-75
+	android:name
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:9:18-72
+application
+ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:12:5-57:19
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\joysi\.gradle\caches\transforms-3\5423c65485a974611bfb437c61e9a2e1\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\joysi\.gradle\caches\transforms-3\5423c65485a974611bfb437c61e9a2e1\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\joysi\.gradle\caches\transforms-3\a987d2316070045a98d27868be069a73\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\joysi\.gradle\caches\transforms-3\a987d2316070045a98d27868be069a73\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\914af07b2490dc878f01326ae2aa49a5\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\914af07b2490dc878f01326ae2aa49a5\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\joysi\.gradle\caches\transforms-3\adacc4bbdca3c037c01e5031782c646c\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\joysi\.gradle\caches\transforms-3\adacc4bbdca3c037c01e5031782c646c\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\joysi\.gradle\caches\transforms-3\f402c227810f854944e859f834a3003b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\joysi\.gradle\caches\transforms-3\f402c227810f854944e859f834a3003b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\joysi\.gradle\caches\transforms-3\bf8d388157906b2f93596545fa1cdd75\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\joysi\.gradle\caches\transforms-3\bf8d388157906b2f93596545fa1cdd75\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\d33b6ea82ea82939491efcd0e438d085\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\d33b6ea82ea82939491efcd0e438d085\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\joysi\.gradle\caches\transforms-3\adacc4bbdca3c037c01e5031782c646c\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:15:9-43
+	android:theme
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:17:9-58
+meta-data#xposedmodule
+ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:19:9-21:36
+	android:value
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:21:13-33
+	android:name
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:20:13-40
+meta-data#xposeddescription
+ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:22:9-24:88
+	android:value
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:24:13-85
+	android:name
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:23:13-45
+meta-data#xposedsharedprefs
+ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:25:9-27:36
+	android:value
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:27:13-33
+	android:name
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:26:13-45
+meta-data#xposedminversion
+ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:28:9-30:34
+	android:value
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:30:13-31
+	android:name
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:29:13-44
+meta-data#xposedscope
+ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:31:9-33:54
+	android:resource
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:33:13-51
+	android:name
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:32:13-39
+activity#google.cts.enabler.ActivityMain
+ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:35:9-41:20
+	android:exported
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:36:13-36
+	android:name
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:35:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:37:13-40:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:39:27-74
+activity#google.cts.enabler.FeatureCustomize
+ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:43:9-53
+	android:name
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:43:19-51
+activity#google.cts.enabler.AdvancedOptionsActivity
+ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:45:9-60
+	android:name
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:45:19-58
+uses-sdk
+INJECTED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\joysi\.gradle\caches\transforms-3\5e94dba7cc0f687461cfefa33f18f1fc\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\joysi\.gradle\caches\transforms-3\5e94dba7cc0f687461cfefa33f18f1fc\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\joysi\.gradle\caches\transforms-3\5423c65485a974611bfb437c61e9a2e1\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\joysi\.gradle\caches\transforms-3\5423c65485a974611bfb437c61e9a2e1\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\joysi\.gradle\caches\transforms-3\a987d2316070045a98d27868be069a73\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\joysi\.gradle\caches\transforms-3\a987d2316070045a98d27868be069a73\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\joysi\.gradle\caches\transforms-3\d2be0a07ac682004ffbddd9c163a1cf7\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\joysi\.gradle\caches\transforms-3\d2be0a07ac682004ffbddd9c163a1cf7\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\ef9c2e62fda9f61be2c2be664ad60833\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\ef9c2e62fda9f61be2c2be664ad60833\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\joysi\.gradle\caches\transforms-3\bd96202844677c6ffff7ddee94f67721\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\joysi\.gradle\caches\transforms-3\bd96202844677c6ffff7ddee94f67721\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\joysi\.gradle\caches\transforms-3\80254027b8214a8eee7337b0d05a888c\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\joysi\.gradle\caches\transforms-3\80254027b8214a8eee7337b0d05a888c\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\joysi\.gradle\caches\transforms-3\77a5f4f84e54b69a38c821c32d573fc9\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\joysi\.gradle\caches\transforms-3\77a5f4f84e54b69a38c821c32d573fc9\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\cf0c7c27b218b63b644acaf2b0ee7e36\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\cf0c7c27b218b63b644acaf2b0ee7e36\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\914af07b2490dc878f01326ae2aa49a5\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\914af07b2490dc878f01326ae2aa49a5\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\joysi\.gradle\caches\transforms-3\286cefdc312dd8b0d38d55e09c15a1b4\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\joysi\.gradle\caches\transforms-3\286cefdc312dd8b0d38d55e09c15a1b4\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\joysi\.gradle\caches\transforms-3\2537510cd9d1f9cd971695449a7cf1ff\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\joysi\.gradle\caches\transforms-3\2537510cd9d1f9cd971695449a7cf1ff\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\290daf0007bd16060f850c4dce88c7cb\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\290daf0007bd16060f850c4dce88c7cb\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\joysi\.gradle\caches\transforms-3\9386fc3a7a94f7a0c1fd818ff20fb1b9\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\joysi\.gradle\caches\transforms-3\9386fc3a7a94f7a0c1fd818ff20fb1b9\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\joysi\.gradle\caches\transforms-3\3e95cf769ad47224fc976447c9a19c83\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\joysi\.gradle\caches\transforms-3\3e95cf769ad47224fc976447c9a19c83\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\joysi\.gradle\caches\transforms-3\7c0ea3c407177bc42858e1a03eb2d703\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\joysi\.gradle\caches\transforms-3\7c0ea3c407177bc42858e1a03eb2d703\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\8c86d60e31ecc9b8c6036e7feee09a6a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\8c86d60e31ecc9b8c6036e7feee09a6a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\0bcaf791ff50993e77c8308306818b83\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\0bcaf791ff50993e77c8308306818b83\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\e8d78942842e4749837a1f33ca3e068b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\e8d78942842e4749837a1f33ca3e068b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\joysi\.gradle\caches\transforms-3\e9deb67a89ab8947a2a3af3afa4c656b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\joysi\.gradle\caches\transforms-3\e9deb67a89ab8947a2a3af3afa4c656b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\joysi\.gradle\caches\transforms-3\b0cbde3fdb6c0db7f9e0e5bbe61fd3f8\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\joysi\.gradle\caches\transforms-3\b0cbde3fdb6c0db7f9e0e5bbe61fd3f8\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\joysi\.gradle\caches\transforms-3\adacc4bbdca3c037c01e5031782c646c\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\joysi\.gradle\caches\transforms-3\adacc4bbdca3c037c01e5031782c646c\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\af11966b09b302805e3cf6788f225a1d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\af11966b09b302805e3cf6788f225a1d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\joysi\.gradle\caches\transforms-3\5205ffd90e7e9781df9aac7bc98fe4cf\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\joysi\.gradle\caches\transforms-3\5205ffd90e7e9781df9aac7bc98fe4cf\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\joysi\.gradle\caches\transforms-3\b569b24e839ddc23bd7fca0bdc2aad92\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\joysi\.gradle\caches\transforms-3\b569b24e839ddc23bd7fca0bdc2aad92\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\joysi\.gradle\caches\transforms-3\1ac93c5e760a99df0791676ab0dd2c8b\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\joysi\.gradle\caches\transforms-3\1ac93c5e760a99df0791676ab0dd2c8b\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\e50543719087e4e0d9eed540cacbdf66\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\e50543719087e4e0d9eed540cacbdf66\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\joysi\.gradle\caches\transforms-3\f402c227810f854944e859f834a3003b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\joysi\.gradle\caches\transforms-3\f402c227810f854944e859f834a3003b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\joysi\.gradle\caches\transforms-3\bf8d388157906b2f93596545fa1cdd75\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\joysi\.gradle\caches\transforms-3\bf8d388157906b2f93596545fa1cdd75\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\d33b6ea82ea82939491efcd0e438d085\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\d33b6ea82ea82939491efcd0e438d085\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\84ac24e2f6d5732bdb410617f5e9ba1f\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\84ac24e2f6d5732bdb410617f5e9ba1f\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\joysi\.gradle\caches\transforms-3\3975aa665502506a868be148aa96357f\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\joysi\.gradle\caches\transforms-3\3975aa665502506a868be148aa96357f\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\joysi\.gradle\caches\transforms-3\e6d5b26d4f1271669854a4a122d5c6d8\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\joysi\.gradle\caches\transforms-3\e6d5b26d4f1271669854a4a122d5c6d8\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\joysi\.gradle\caches\transforms-3\46678b274d19ceaa2ace84fd4677d921\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\joysi\.gradle\caches\transforms-3\46678b274d19ceaa2ace84fd4677d921\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\joysi\.gradle\caches\transforms-3\c40e630578e61a061d65c5e47b572f6e\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\joysi\.gradle\caches\transforms-3\c40e630578e61a061d65c5e47b572f6e\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\69a4388af68bad3cfd5a877ec530d9c8\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\69a4388af68bad3cfd5a877ec530d9c8\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\1fc11c2023e1af6b505dff2498a00c20\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\1fc11c2023e1af6b505dff2498a00c20\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\46197eece4813ea272dedaf6d97f0704\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\46197eece4813ea272dedaf6d97f0704\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\bf11d5f709f8b4982d65ae78eb7a0a6a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\bf11d5f709f8b4982d65ae78eb7a0a6a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\joysi\.gradle\caches\transforms-3\4f1a47d5479d4f3d8d4d4695b638601c\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\joysi\.gradle\caches\transforms-3\4f1a47d5479d4f3d8d4d4695b638601c\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:53:13-55:57
+	android:resource
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:55:17-55
+	android:name
+		ADDED from C:\Users\joysi\Downloads\Pixelify-Google-Photos\app\src\main\AndroidManifest.xml:54:17-67
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\914af07b2490dc878f01326ae2aa49a5\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\joysi\.gradle\caches\transforms-3\bf8d388157906b2f93596545fa1cdd75\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\joysi\.gradle\caches\transforms-3\bf8d388157906b2f93596545fa1cdd75\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\d33b6ea82ea82939491efcd0e438d085\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\d33b6ea82ea82939491efcd0e438d085\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\914af07b2490dc878f01326ae2aa49a5\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\914af07b2490dc878f01326ae2aa49a5\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\914af07b2490dc878f01326ae2aa49a5\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\914af07b2490dc878f01326ae2aa49a5\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\914af07b2490dc878f01326ae2aa49a5\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\914af07b2490dc878f01326ae2aa49a5\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\joysi\.gradle\caches\transforms-3\914af07b2490dc878f01326ae2aa49a5\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\joysi\.gradle\caches\transforms-3\bf8d388157906b2f93596545fa1cdd75\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\joysi\.gradle\caches\transforms-3\bf8d388157906b2f93596545fa1cdd75\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\joysi\.gradle\caches\transforms-3\bf8d388157906b2f93596545fa1cdd75\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
